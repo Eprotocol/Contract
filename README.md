@@ -1,2 +1,2 @@
-# Contract
+# EPR.sol
 Eprotocol contract
